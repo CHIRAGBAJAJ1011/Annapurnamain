@@ -1,0 +1,159 @@
+
+
+.navbar{
+  font-family: "Sofia", sans-serif;
+  background-color: #ffdada;
+  width:100%;
+  margin-top:0px;
+  position:fixed;
+  z-index:5;
+  overflow: hidden;
+
+
+}
+#details{
+  color: #d7385e;
+  font-size:xx-large;
+}
+#a {
+  color:#fff;
+}
+#b{
+  color: #fff;
+}
+
+.nav-item{
+  padding:5px 5px;
+}
+.nav-link{
+  background-color: transparent;
+  transition: background-color 0.5s;
+  border-radius: 5px;
+}
+.nav-link:hover{
+  background-color: #d7385e ;
+  color:#fff;
+
+}
+.payment{
+ 
+}
+.btn{
+  background: #d7385e; 
+  display: inline-block;
+ 
+  padding: 8px 30px;
+  border-radius: 4px;
+  margin:30px 0px;
+  transition: 0.5s;
+}
+.btn:hover{
+  background-color:#2b2b28;
+  color:#fff;
+  
+ 
+}
+.feeder {
+  background : #d7385e;
+  color: #fff;
+  padding: 10px 20px;
+ border-radius: 4px;
+ font-weight: bolder;
+ border:none;
+
+}
+#mybutton {
+  position: fixed;
+  
+  bottom: -4px;
+  right: 10px;
+}
+.l2{
+  border:2px solid #d7385e;
+  background-color: #fff; 
+
+}
+.fake{
+  margin-bottom: 2em;
+}
+.d2{
+    color:#d7385e;
+    font-weight: bolder;
+  }
+  .fake{
+      padding-bottom: 3em;
+  }
+  .d3{
+    overflow:hidden;
+    display: flex;
+    padding-left: 5em;
+    padding-right:5em;
+   
+  
+  }
+  .donate{
+    padding-bottom: 5em;
+  }
+  .d1{
+    padding-bottom: 3em;
+  }
+  p{
+   font-size: x-large;
+    
+  }
+  
+.donate2{
+  overflow:hidden;
+  
+  padding-left: 5em;
+  padding-right:5em;
+  margin-bottom: 2em;
+
+}
+.pink{
+  color:#d7385e;
+  font-weight: bolder;
+  padding-bottom: 3em;
+}
+.light{
+  opacity: 0.5;
+  margin-bottom: 2em;
+}
+.payment{
+ 
+  height:500px;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+.buttn{
+  margin-top: 50px;
+  border-radius: 50%;
+  border:none;
+  padding:10px 10px 10px 10px;
+
+  color:#d7385e;
+}
+.image{
+  margin-bottom: 2em;
+}
+.gap{
+  margin-bottom: 2em;
+}
+.icon{
+  padding:10px 10px 10px 10px;
+  color:#d7385e;
+}
+.black{
+  color:black;
+}
+#btspace{
+  margin-bottom: 5px;
+
+}
+.logoname{
+  font-family:sans-serif;
+  color:#d7385e;
+  padding:10px 5px;
+  font-weight: bold;
+  font-size: x-large;
+}
